@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muhammad Ali Khalil
 
-Software Engineer | React.js Developer | Building scalable web experiences
+Software Engineer | Frontend Developer | Building scalable web experiences
 
-I'm a frontend developer passionate about building high-performance, user-friendly applications with clean and maintainable code. Currently contributing to a company-wide React framework at **Granjur Technologies**.
+I'm a frontend developer passionate about building high-performance, user-friendly web applications with clean and maintainable code. Currently contributing to a company-wide React framework at **Granjur Technologies**.
 
 ## 🛠️ Tech Stack
 
